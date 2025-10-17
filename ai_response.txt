@@ -1,0 +1,906 @@
+{
+  "status": "success",
+  "message": "Logs processed successfully",
+  "ai_responses": [
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.379659"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.407128"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.412768"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.415546"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.420548"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.421546"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.424547"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.426554"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.427547"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.429551"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.430548"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.431547"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.433550"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.435549"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.437549"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.437549"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.438553"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.439550"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.440556"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.442547"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.444576"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.445665"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.446660"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.446660"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.448659"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.448659"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.450664"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.451664"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.453661"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.454661"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.454661"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.455661"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.456663"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.471865"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.472840"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.473838"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.475841"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.476837"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.477857"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.478842"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.479840"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.480835"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.480835"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.481835"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.481835"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.482836"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.486837"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.487842"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.495845"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.497866"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.498522"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.499567"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.501582"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.502584"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.503580"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.505392"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.505907"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.509929"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.511922"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.512924"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.513918"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.514921"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.514921"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.516920"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.518920"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.525922"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.528921"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.529647"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.530177"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.531192"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.532173"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.534177"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.537986"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.539979"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.541983"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.542982"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.542982"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.543982"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.544981"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.544981"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.545979"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.545979"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.547004"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.547983"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.548984"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.550987"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.552777"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.554779"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.555775"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.557770"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.557770"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.558770"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.558770"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.559771"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.560775"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.561777"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.562772"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.563770"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.564771"
+    },
+    {
+      "type": "error",
+      "data": {
+        "error": "Internal processing error",
+        "code": "INTERNAL_ERROR"
+      },
+      "session_id": "sess_82b5d153",
+      "timestamp": "2025-10-10T12:08:47.565771"
+    }
+  ]
+}
