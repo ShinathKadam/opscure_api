@@ -17,37 +17,6 @@ function convertLogsToStrings(logArray = []) {
   });
 }
 
-/**
- * GET /api/fetch-logs → proxy to local API
- */
-router.get("/fetch-logs", async (req, res) => {
-  try {
-    const { projectUrl } = req.query;
-    if (!projectUrl) {
-      return res
-        .status(400)
-        .json({ success: false, message: "Missing projectUrl" });
-    }
-
-    const response = await axios.get(
-      `http://localhost:4000/api/fetch-logs?projectUrl=${encodeURIComponent(
-        projectUrl
-      )}`
-    );
-
-    return res.json({
-      success: true,
-      data: response.data,
-    });
-  } catch (error) {
-    console.error("Error in /fetch-logs:", error.message);
-    return res.status(500).json({
-      success: false,
-      message: "Failed to fetch logs",
-      error: error.message,
-    });
-  }
-});
 
 /**
  * POST /api/send-logs → Send logs to FastAPI (AI/ML backend)
